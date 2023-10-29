@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HomeworkThree</string>
+    <string name="greeting_text">Profile Info</string>
+    <string name="email_hint_text">Type Your Email:</string>
+    <string name="username_hint_text">Type Your Username:</string>
+    <string name="firstname_hint_text">Type Your First Name:</string>
+    <string name="lastname_hint_text">Type Your Last Name:</string>
+    <string name="age_hint_text">Type Your Age:</string>
+    <string name="save_button">Save</string>
+    <string name="clear_button">Clear</string>
+    <string name="again_button">Again</string>
+    <string name="email_text_view">Email: </string>
+    <string name="email_template_text_view">android@google.com</string>
+    <string name="full_name_text_view">Full Name: </string>
+    <string name="full_name_template">firstName LastName</string>
+    <string name="username_text_view">Username: </string>
+    <string name="username_template">useruser</string>
+    <string name="age_text_view">Age: </string>
+    <string name="age_template">69</string>
+</resources>

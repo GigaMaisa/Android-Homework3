@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="status_bar_color">#c8cb8e</color>
+    <color name="action_bar_color">#dadda2</color>
+    <color name="background">#eaecb6</color>
+    <color name="edit_text_input_color">#4d4d4d</color>
+    <color name="gradient_start_color">#D3CCE3</color>
+    <color name="gradient_end_color">#D3CCE3</color>
+</resources>
